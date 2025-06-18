@@ -22,8 +22,8 @@
 | `duration:`       | Specifies the time that the snackbar should be displayed for|
 | `action:`         | Inserts the Undo button    |
 
-![Snackbar Image](shopping_cart/assets/snackbar-01.png)
-![](shopping_cart/assets/snackbar-02.png)
+![Snackbar Image](assets/snackbar-01.png)
+![](assets/snackbar-02.png)
 
 ## More Explanation
 - We use the **ScaffoldMessenger.of(context).showSnackBar();** to fetch contents of the snackbar and display the snackbar
