@@ -23,7 +23,7 @@
 | `action:`         | Inserts the Undo button    |
 
 ![Snackbar Image](shopping_cart/assets/snackbar-01.png)
-![](assets/snackbar-02.png)
+![](shopping_cart/assets/snackbar-02.png)
 
 ## More Explanation
 - We use the **ScaffoldMessenger.of(context).showSnackBar();** to fetch contents of the snackbar and display the snackbar
