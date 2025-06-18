@@ -22,7 +22,7 @@
 | `duration:`       | Specifies the time that the snackbar should be displayed for|
 | `action:`         | Inserts the Undo button    |
 
-![Snackbar Image](assets/snackbar-01.png)
+![Snackbar Image](shopping_cart/assets/snackbar-01.png)
 ![](assets/snackbar-02.png)
 
 ## More Explanation
